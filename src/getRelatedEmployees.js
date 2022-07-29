@@ -8,4 +8,6 @@ function getRelatedEmployees(managerId) {
   // seu código aqui
 }
 
+console.log(data.employees);
+
 module.exports = { isManager, getRelatedEmployees };
