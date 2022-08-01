@@ -36,4 +36,9 @@ describe('Testes da função HandlerElephants', () => {
     const expected = ['Friday', 'Saturday', 'Sunday', 'Tuesday'];
     expect(handlerElephants(actual)).toEqual(expected);
   });
+
+  it('Não passando argumentos a função deve retornar undefined;', () => {
+    const expected = undefined;
+    expect(handlerElephants()).toEqual(expected);
+  });
 });
