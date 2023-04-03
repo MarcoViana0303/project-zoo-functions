@@ -1,13 +1,49 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+# Zoo Functions
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+O projeto consiste no desenvolvimento de funções que buscam informações sobre os animais do zoológico como: espécie e local de origem, além de buscar dados sobre as pessoas que colaboram com a manutenção e cuidado do mesmo. Implementei as funções utilizando High Order Functions (HOF's), e para garantir que estava funcionando corretamente, realizei também a implementação dos testes usando Jest.
+
+
+## Referência
+
+ - [Jest Js](https://jestjs.io/pt-BR/)
+ - [High Order Functions](https://www.alura.com.br/artigos/high-order-functions)
+
+
+## Rodando localmente
+
+Clone o projeto
+
+```bash
+  git clone git@github.com:MarcoViana0303/project-zoo-functions.git
+```
+
+Entre no diretório do projeto
+
+```bash
+  cd sd-024-a-project-zoo-functions
+```
+
+Instale as dependências
+
+```bash
+  npm install
+```
+
+Instale o Jest como uma dependência de desenvolvimento do projeto
+
+```bash
+  npm install --save-dev jest
+```
+
+Para rodar os testes, execute o seguinte comando
+
+```bash
+  npm test
+```
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://marcoviana-dev.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-viana2022/)
+
