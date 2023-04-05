@@ -21,7 +21,7 @@ Clone o projeto
 Entre no diretório do projeto
 
 ```bash
-  cd sd-024-a-project-zoo-functions
+  cd project-zoo-functions
 ```
 
 Instale as dependências
